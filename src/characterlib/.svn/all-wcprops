@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/users/gilmour/!svn/ver/25/oosd/LegendOfEsmurelda/src/characterlib
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/users/gilmour/!svn/ver/46/oosd/LegendOfEsmurelda/src/characterlib/Player.java
+END
+GameCharacter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/users/gilmour/!svn/ver/43/oosd/LegendOfEsmurelda/src/characterlib/GameCharacter.java
+END
+PassiveEnemy.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/users/gilmour/!svn/ver/46/oosd/LegendOfEsmurelda/src/characterlib/PassiveEnemy.java
+END
+NPC.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/users/gilmour/!svn/ver/46/oosd/LegendOfEsmurelda/src/characterlib/NPC.java
+END
+Enemy.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/users/gilmour/!svn/ver/43/oosd/LegendOfEsmurelda/src/characterlib/Enemy.java
+END
+Dialogue.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/users/gilmour/!svn/ver/46/oosd/LegendOfEsmurelda/src/characterlib/Dialogue.java
+END
+Villager.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/users/gilmour/!svn/ver/46/oosd/LegendOfEsmurelda/src/characterlib/Villager.java
+END

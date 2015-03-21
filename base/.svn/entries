@@ -1,0 +1,90 @@
+8
+
+dir
+29
+http://gilmour@svn.informatics.unimelb.edu.au/users/gilmour/oosd/LegendOfEsmurelda/base
+http://gilmour@svn.informatics.unimelb.edu.au/users/gilmour
+
+
+
+2012-09-05T14:32:53.891521Z
+23
+gilmour
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+74356063-96cc-4121-8117-07b6cf406af8
+
+bags
+dir
+
+items
+dir
+
+map.tmx
+file
+
+
+
+
+2012-08-30T07:40:29.484000Z
+4687ddeb76f37add5b9f8a248f1cf2eb
+2012-09-01T04:11:13.865422Z
+15
+gilmour
+
+panel.png
+file
+34
+
+
+
+2012-10-17T04:18:24.136000Z
+67c82e55eea41690bbd66dead4f0aa25
+2012-10-17T05:58:06.279323Z
+34
+gilmour
+has-props
+
+scripting
+dir
+
+tiles.png
+file
+45
+
+
+
+2012-10-19T05:22:17.814000Z
+caec77b53a7c85e1dc7283a747032d4e
+2012-10-19T05:31:39.841777Z
+45
+gilmour
+has-props
+
+tileset.tsx
+file
+
+
+
+
+2012-08-30T07:40:29.487000Z
+584a21d33d406232802d3bb8a47bb2f2
+2012-09-01T04:11:13.865422Z
+15
+gilmour
+
+units
+dir
+
